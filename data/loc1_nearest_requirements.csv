@@ -1,0 +1,8 @@
+,_id,name,latitud,longitud,geometry
+0,602161afa8847ab9f63b68df,Starbucks,37.77708998,-122.4172976,"{'type': 'Point', 'coordinates': [-122.4172976, 37.77708998]}"
+1,60216787a8847ab9f63b68fd,San Francisco International Airport (SFO) (San Francisco International Airport),37.6167130000997,-122.38709449768066,"{'type': 'Point', 'coordinates': [-122.38709449768066, 37.6167130000997]}"
+2,602168baa8847ab9f63b68fe,VCA All Pets Hospital,37.76892,-122.41752,"{'type': 'Point', 'coordinates': [-122.41752, 37.76892]}"
+3,60216908a8847ab9f63b690f,C5 Children's School,37.778864078509734,-122.41458373129642,"{'type': 'Point', 'coordinates': [-122.41458373129642, 37.778864078509734]}"
+4,6021695fa8847ab9f63b691b,Ananda Fuara,37.77769251469199,-122.41635331222618,"{'type': 'Point', 'coordinates': [-122.41635331222618, 37.77769251469199]}"
+5,60216999a8847ab9f63b6953,Verso,37.77375297887464,-122.41737993225024,"{'type': 'Point', 'coordinates': [-122.41737993225024, 37.77375297887464]}"
+6,60216787a8847ab9f63b68fd,San Francisco International Airport (SFO) (San Francisco International Airport),37.6167130000997,-122.38709449768066,"{'type': 'Point', 'coordinates': [-122.38709449768066, 37.6167130000997]}"
