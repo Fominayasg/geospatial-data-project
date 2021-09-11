@@ -35,7 +35,7 @@ It has been shown that the happier the staff is, the more productive the company
 
 It will probably be difficult to find a place that satisfies all requests, so we will consider as a priority:
 - Being close to other technology companies since most of the staff is made up of developers.
-- That the office mascot is well cared.
+- That the office pet is well cared.
 - That there are schools nearby so that employees can reconcile family life.
 
 If you want to find out the final location, have a look at the repository.
@@ -46,7 +46,7 @@ The repository is constructed in such a way that the final location selection pr
 
 In the src folder you will find the files with the functions used throughout the process.
 
-In the data mask, you will find the outputs with the data obtained throughout the process.
+In the data one, you will find the outputs with the data obtained throughout the process.
 
 
 
