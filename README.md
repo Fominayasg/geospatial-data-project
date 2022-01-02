@@ -1,4 +1,4 @@
-# Geospatial-data-project
+# Geospatial data project
 
 ![portada](https://github.com/Fominayasg/geospatial-data-project/blob/main/images/portada.jpg)
 
